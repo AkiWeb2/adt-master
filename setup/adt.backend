@@ -1,0 +1,11 @@
+[Alterator Entry]
+Type = Backend
+Module = executor
+Name = adt
+Interface = application1
+action_id = ru.basealt.alterator.application1
+
+[Info]
+execute = cat /usr/share/alterator/applications/adt.application
+stdout_bytes = enabled
+action_id = Info

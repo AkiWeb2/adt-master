@@ -1,0 +1,5 @@
+#pragma once
+
+#cmakedefine ADT_VERSION_MAJOR @ADT_VERSION_MAJOR@
+#cmakedefine ADT_VERSION_MINOR @ADT_VERSION_MINOR@
+#cmakedefine ADT_VERSION_PATCH @ADT_VERSION_PATCH@

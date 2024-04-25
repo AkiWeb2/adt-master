@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32mm"
+   height="32mm"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1444"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1446"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs1441">
+    <rect
+       x="161.21388"
+       y="612.61273"
+       width="81.232399"
+       height="167.8521"
+       id="rect2448-1" />
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2561"
+       transform="matrix(0.66895052,0,0,0.66895052,-66.967892,-40.245086)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.3373px;line-height:1.6;font-family:Century;-inkscape-font-specification:Century;fill:#000080;fill-opacity:1;stroke:#ffffff;stroke-width:0.35768;stroke-opacity:1"
+         x="112.784"
+         y="94.913399"
+         id="text2388-0"><tspan
+           sodipodi:role="line"
+           id="tspan2386-1"
+           style="fill:#000080;stroke:#ffffff;stroke-width:0.35768;stroke-opacity:1"
+           x="112.784"
+           y="94.913399">D</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.3373px;line-height:1.6;font-family:Century;-inkscape-font-specification:Century;fill:#000080;fill-opacity:1;stroke:#ffffff;stroke-width:0.35768;stroke-opacity:1"
+         x="127.99992"
+         y="103.84084"
+         id="text2392-4"><tspan
+           sodipodi:role="line"
+           id="tspan2390-1"
+           style="stroke:#ffffff;stroke-width:0.35768;stroke-opacity:1"
+           x="127.99992"
+           y="103.84084">T</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.35768031,0,0,0.35768031,42.93713,-159.06345)"
+         id="text2446-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1.6;font-family:Century;-inkscape-font-specification:Century;white-space:pre;shape-inside:url(#rect2448-1);display:inline;fill:#000080;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"><tspan
+           x="161.21484"
+           y="716.7613"
+           id="tspan1649">A</tspan></text>
+    </g>
+  </g>
+</svg>

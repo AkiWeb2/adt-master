@@ -1,0 +1,9 @@
+[Alterator Entry]
+Type=Application
+Interface=ru.basealt.alterator.diag1
+Name=ADT
+DisplayName=ADT
+DisplayName[ru]=ADT
+Comment=ALT Diagnostic Tool
+Comment[ru]=Диагностический инструмент
+Exec=adt -o %o -r -t -g
